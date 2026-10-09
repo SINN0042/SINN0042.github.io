@@ -1,0 +1,20 @@
+.DAN {
+	fill: lightblue;
+	transition: fill 0.3s;
+	transition-delay: 0.3s;
+	} 
+	.DAN:hover {
+	fill: blue;
+	
+	transition: fill 0.3s;
+	} 
+
+	.MORGFREE {
+        fill: lightgreen;
+	transition: fill 0.3s;
+	transition-delay: 0.3s;
+	}
+	.MORGFREE:hover {
+	fill: green;
+	transition: fill 0.3s;
+	}
