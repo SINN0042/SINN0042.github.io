@@ -1,13 +1,13 @@
-#body {
+body {
     font-family: Arial, sans-serif;
     font-size: 18px;
 }
 
-#header, #footer {
+header, footer {
     background-color: lightblue;
 }
 
-#site-title {
+.site-title {
     color: darkblue;
 }
 
