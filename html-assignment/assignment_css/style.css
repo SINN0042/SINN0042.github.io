@@ -20,10 +20,14 @@ ul.hobbies {
 ul.hobbies li:nth-child(odd) {
     background-color: lightblue;
 }
-nav ul {
+ul {
   list-style: none;
   padding: 0;
 }
-nav a {
-  text-decoration: none;
+a {
+    border: 1.5px solid darkblue;
+    text-decoration: none;
+}
+a:hover {
+    background-color: lightblue;
 }
