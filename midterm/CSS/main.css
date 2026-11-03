@@ -53,6 +53,13 @@ article p {
 }
 .facts {
     clear: left;
+    list-style-type: disc;
+    padding-left: 30px;
+    margin: 10px 0 20px;
+}
+.facts li {
+    font-size: 0.9rem;
+    line-height: 1.2rem;
 }
 header {
     position: relative;
