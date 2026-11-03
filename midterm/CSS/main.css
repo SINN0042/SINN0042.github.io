@@ -39,7 +39,7 @@ nav li:last-child {
 }
 article::after {
     content: "";
-    dsisplay: block;
+    display: block;
     clear: both;
 }
 article img {
@@ -94,6 +94,18 @@ form label {
     display: block;
     margin-bottom: 8px;
 }
+.radio-group label {
+    
+    display: inline;
+    margin-bottom: 0;
+}
+.radio-group input {
+    margin-right: 10px;
+}
+.radio-group {
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
 input[type="text"],
 input[type="email"] {
     display: block;
@@ -113,3 +125,4 @@ textarea {
     border: 1px solid #ccc;
     margin-bottom: 15px;
 }
+
