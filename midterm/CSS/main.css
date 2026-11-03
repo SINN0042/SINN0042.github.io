@@ -44,6 +44,12 @@ article::after {
 }
 article img {
     float: left;
+    margin-right: 8px;
+    margin-bottom: 5px;
+}
+article p {
+    font-size: 0.9rem;
+    line-height: 1.2rem;
 }
 .facts {
     clear: left;
