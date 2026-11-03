@@ -53,15 +53,19 @@ header img {
     z-index: 1;
 }
 h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin: 0;
     padding: 0;
-    color: #000;
+    color: #fff;
     position: absolute;
-    top: 175px;
-    left: 280px;
+    top: 150px;
+    left: 260px;
 }
 ul.facts {
     border: 3px solid black;
 
+}
+h2 {
+    font-size: 1.4rem;
+    font
 }
