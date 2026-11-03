@@ -83,4 +83,12 @@ h2 {
     font-size: 1.4rem;
     margin: 1px;
 }
-
+form {
+    border: 1px solid black;
+    padding: 15 px;
+    margin-top: 10px;
+}
+form label {
+    display: block;
+    margin-bottom: 8px;
+}
