@@ -7,11 +7,11 @@ html {
 }
 body {
     font-family: Arial, helvetica, sans-serif;
-    background-color: teal;
+    background-color: #b2d3cf;
 }
 .wrapper {
     width: 800px;
-    background-color: lightblue;
+    background-color: #d8e8e7;
     /* center block level elements */
     margin: 0 auto;
 }
@@ -43,15 +43,25 @@ article img {
 .facts {
     clear: left;
 }
+header {
+    position: relative;
+    text-align: center;
+}
 header img {
     max-width: 100%;
-    hieght: auto;s
+    hieght: auto;
+    z-index: 1;
 }
 h1 {
+    font-size: 2.5rem;
     margin: 0;
     padding: 0;
     color: #000;
-    position: relative;
-    top: 0px;
-    laft: 0px;
+    position: absolute;
+    top: 175px;
+    left: 280px;
+}
+ul.facts {
+    border: 3px solid black;
+
 }
