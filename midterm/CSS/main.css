@@ -46,10 +46,12 @@ article img {
     float: left;
     margin-right: 8px;
     margin-bottom: 5px;
+    padding-left: 8px;
 }
 article p {
     font-size: 0.9rem;
     line-height: 1.2rem;
+    padding: 0 8px;
 }
 .facts {
     clear: left;
@@ -81,7 +83,7 @@ h1 {
 }
 h2 {
     font-size: 1.4rem;
-    margin: 1px;
+    margin: 8px;
 }
 form {
     border: 1px solid black;
