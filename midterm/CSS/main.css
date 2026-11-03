@@ -19,8 +19,6 @@ nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
-
-
 }
 nav li {
     display: inline-block;
@@ -61,11 +59,8 @@ h1 {
     top: 150px;
     left: 260px;
 }
-ul.facts {
-    border: 3px solid black;
-
-}
 h2 {
     font-size: 1.4rem;
-    font
+    margin: 1px;
 }
+
