@@ -132,3 +132,8 @@ button {
     text-transform: uppercase;
     font-size: 0.75rem;
 }
+footer {
+    text-align: right;
+    font-size: 0.75rem;
+    padding: 20px;
+}
